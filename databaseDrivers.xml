@@ -1,0 +1,14 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
+    <driver id="939e6168-c295-4225-bf0f-7f225c776b9a" name="User Driver [2]" driver-class="java.sql.Driver" />
+    <driver id="6b44bec2-0588-4b61-bbf7-c637de95268c" name="User Driver [3]" driver-class="java.sql.Driver" />
+    <driver id="d6dc0b85-5e04-42c5-9f3a-4303cbaee23b" name="User Driver [4]" driver-class="java.sql.Driver" />
+    <driver id="49829a28-d754-453f-9e36-c54305b0cf0d" name="User Driver [5]" driver-class="java.sql.Driver" />
+    <driver id="fdfa9716-929e-4443-a300-86489bed3257" name="User Driver [6]" driver-class="java.sql.Driver" />
+  </component>
+</application>
