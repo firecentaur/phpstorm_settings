@@ -1,8 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" playSound="true" />
-    <notification groupId="Debugger" playSound="true" />
-    <notification groupId="Grunt Console" displayType="TOOL_WINDOW" playSound="true" />
-    <notification groupId="Laravel Sail" playSound="true" />
-  </component>
-</application>
